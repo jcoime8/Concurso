@@ -1,0 +1,9 @@
+C:\FacturacionElectronica\F3\FacturacionElectronica\FacturacionElectronica\bin\Debug\DAL_FacturacionElectronica.dll.config
+C:\FacturacionElectronica\F3\FacturacionElectronica\FacturacionElectronica\bin\Debug\DAL_FacturacionElectronica.dll
+C:\FacturacionElectronica\F3\FacturacionElectronica\FacturacionElectronica\bin\Debug\DAL_FacturacionElectronica.pdb
+C:\FacturacionElectronica\F3\FacturacionElectronica\FacturacionElectronica\obj\Debug\DAL_FacturacionElectronica.csproj.AssemblyReference.cache
+C:\FacturacionElectronica\F3\FacturacionElectronica\FacturacionElectronica\obj\Debug\DAL_FacturacionElectronica.csproj.CoreCompileInputs.cache
+C:\FacturacionElectronica\F3\FacturacionElectronica\FacturacionElectronica\obj\Debug\DAL_FacturacionElectronica.dll
+C:\FacturacionElectronica\F3\FacturacionElectronica\FacturacionElectronica\obj\Debug\DAL_FacturacionElectronica.pdb
+C:\FacturacionElectronica\F3\FacturacionElectronica\FacturacionElectronica\obj\Debug\DAL_FacturacionElectronica.Properties.Resources.resources
+C:\FacturacionElectronica\F3\FacturacionElectronica\FacturacionElectronica\obj\Debug\DAL_FacturacionElectronica.csproj.GenerateResource.cache
