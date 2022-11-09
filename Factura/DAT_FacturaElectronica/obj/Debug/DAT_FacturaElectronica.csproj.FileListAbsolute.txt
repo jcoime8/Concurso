@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\practica\Factura\DAT_FacturaElectronica\bin\Debug\DAT_FacturaElectronica.dll
+C:\Users\User\Desktop\practica\Factura\DAT_FacturaElectronica\bin\Debug\DAT_FacturaElectronica.pdb
+C:\Users\User\Desktop\practica\Factura\DAT_FacturaElectronica\obj\Debug\DAT_FacturaElectronica.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\practica\Factura\DAT_FacturaElectronica\obj\Debug\DAT_FacturaElectronica.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\practica\Factura\DAT_FacturaElectronica\obj\Debug\DAT_FacturaElectronica.dll
+C:\Users\User\Desktop\practica\Factura\DAT_FacturaElectronica\obj\Debug\DAT_FacturaElectronica.pdb

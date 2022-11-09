@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\practica\Factura\Win_FacturaElectronica\bin\Debug\Win_FacturaElectronica.exe.config
+C:\Users\User\Desktop\practica\Factura\Win_FacturaElectronica\bin\Debug\Win_FacturaElectronica.exe
+C:\Users\User\Desktop\practica\Factura\Win_FacturaElectronica\bin\Debug\Win_FacturaElectronica.pdb
+C:\Users\User\Desktop\practica\Factura\Win_FacturaElectronica\bin\Debug\BLL_FacturaElectronica.dll
+C:\Users\User\Desktop\practica\Factura\Win_FacturaElectronica\bin\Debug\DAT_FacturaElectronica.dll
+C:\Users\User\Desktop\practica\Factura\Win_FacturaElectronica\bin\Debug\BLL_FacturaElectronica.pdb
+C:\Users\User\Desktop\practica\Factura\Win_FacturaElectronica\bin\Debug\DAT_FacturaElectronica.pdb
+C:\Users\User\Desktop\practica\Factura\Win_FacturaElectronica\obj\Debug\Win_FacturaElectronica.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\practica\Factura\Win_FacturaElectronica\obj\Debug\Win_FacturaElectronica.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\practica\Factura\Win_FacturaElectronica\obj\Debug\Win_FacturaElectronica.Form1.resources
+C:\Users\User\Desktop\practica\Factura\Win_FacturaElectronica\obj\Debug\Win_FacturaElectronica.Properties.Resources.resources
+C:\Users\User\Desktop\practica\Factura\Win_FacturaElectronica\obj\Debug\Win_FacturaElectronica.csproj.GenerateResource.cache
+C:\Users\User\Desktop\practica\Factura\Win_FacturaElectronica\obj\Debug\Win_FacturaElectronica.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\practica\Factura\Win_FacturaElectronica\obj\Debug\Win_FacturaElectronica.csproj.CopyComplete
+C:\Users\User\Desktop\practica\Factura\Win_FacturaElectronica\obj\Debug\Win_FacturaElectronica.exe
+C:\Users\User\Desktop\practica\Factura\Win_FacturaElectronica\obj\Debug\Win_FacturaElectronica.pdb

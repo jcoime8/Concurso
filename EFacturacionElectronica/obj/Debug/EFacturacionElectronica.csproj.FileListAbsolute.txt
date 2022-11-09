@@ -1,0 +1,6 @@
+C:\FacturacionElectronica\F3\FacturacionElectronica\EFacturacionElectronica\bin\Debug\EFacturacionElectronica.dll
+C:\FacturacionElectronica\F3\FacturacionElectronica\EFacturacionElectronica\bin\Debug\EFacturacionElectronica.pdb
+C:\FacturacionElectronica\F3\FacturacionElectronica\EFacturacionElectronica\obj\Debug\EFacturacionElectronica.csproj.AssemblyReference.cache
+C:\FacturacionElectronica\F3\FacturacionElectronica\EFacturacionElectronica\obj\Debug\EFacturacionElectronica.csproj.CoreCompileInputs.cache
+C:\FacturacionElectronica\F3\FacturacionElectronica\EFacturacionElectronica\obj\Debug\EFacturacionElectronica.dll
+C:\FacturacionElectronica\F3\FacturacionElectronica\EFacturacionElectronica\obj\Debug\EFacturacionElectronica.pdb

@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\practica\Factura\BLL_FacturaElectronica\bin\Debug\BLL_FacturaElectronica.dll
+C:\Users\User\Desktop\practica\Factura\BLL_FacturaElectronica\bin\Debug\BLL_FacturaElectronica.pdb
+C:\Users\User\Desktop\practica\Factura\BLL_FacturaElectronica\bin\Debug\DAT_FacturaElectronica.dll
+C:\Users\User\Desktop\practica\Factura\BLL_FacturaElectronica\bin\Debug\DAT_FacturaElectronica.pdb
+C:\Users\User\Desktop\practica\Factura\BLL_FacturaElectronica\obj\Debug\BLL_FacturaElectronica.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\practica\Factura\BLL_FacturaElectronica\obj\Debug\BLL_FacturaElectronica.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\practica\Factura\BLL_FacturaElectronica\obj\Debug\BLL_FacturaElectronica.csproj.CopyComplete
+C:\Users\User\Desktop\practica\Factura\BLL_FacturaElectronica\obj\Debug\BLL_FacturaElectronica.dll
+C:\Users\User\Desktop\practica\Factura\BLL_FacturaElectronica\obj\Debug\BLL_FacturaElectronica.pdb
